@@ -1,0 +1,13 @@
+{"app_name":"todoApp",
+    "all_tasks":"All Tasks",
+    "complete_tasks":"Complete Tasks",
+    "incomplete_tasks":"InComplete Tasks",
+    "new_task_title":"InComplete Tasks",
+    "task_title":"Task title",
+    "task_desc":"Task description",
+    "task_isComplete":"isComplete",
+    "add":"Add Task",
+    "null_error":"you have to fill this field!"
+
+
+}

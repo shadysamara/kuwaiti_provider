@@ -1,0 +1,10 @@
+{"app_name":"أعمالي",
+    "all_tasks":"جميع المهام",
+    "complete_tasks":"المهام المكتملة",
+    "incomplete_tasks":"المهام الغير مكتملة",
+    "new_task_title":"اضافة مهمة جديدة",
+    "task_title":"عنوان المهمة",
+    "task_desc":"وصف المهمة",
+    "task_isComplete":"مكتملة",
+    "add":"اضافة المهمة",
+    "null_error":"يجب ملء هذا الحقل"}
